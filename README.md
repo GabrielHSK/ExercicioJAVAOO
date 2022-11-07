@@ -1,2 +1,2 @@
 # ExercicioJAVAOO
-exercicio JAVA da escola StackX
+exercicios JAVA da escola StackX
